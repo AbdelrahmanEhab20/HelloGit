@@ -9,4 +9,27 @@ h1 {
 p {
   color: green;
 }
-    
+
+.red {
+  background-color: red;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.green {
+  background-color: green;
+}
+
+.red p {
+  color: black;
+}
+
+.blue p {
+  color: black;
+}
+
+.green p {
+  color: black;
+}
